@@ -10,6 +10,8 @@ public class M1 {
 		System.out.println("New change ater author email change");
 		
 		System.out.println("New change ater author email change** SECOND COMMIT");
+		
+		System.out.println("New change ater author email change** Third COMMIT");
 
 	}
 
