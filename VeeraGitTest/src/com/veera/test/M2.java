@@ -8,6 +8,7 @@ public class M2 {
 		System.out.println("Change4some other change");
 		//branch 'Branch3' of https://github.com/happyveeru/mergeTest2.git
 		System.out.println("AUt change Branch3");
+		// one more comment
 	}
 
 }
