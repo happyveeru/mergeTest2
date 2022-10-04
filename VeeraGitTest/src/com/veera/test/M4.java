@@ -9,6 +9,11 @@ public class M4 {
 				// Additional
 		// System.out.println("REsove conversation commit");
 				// Additional
+		
+		//System.out.println("Revert then changes");
+		System.out.println("Revert then changes2");
+		System.out.println("Revert then changes");
+		System.out.println("Revert then changes2");
 	}
 
 }
